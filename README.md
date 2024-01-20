@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/nft-preview-card-bem-media-query-flexbox-WcPFlXtEZ)
-- Live URL: [Github Page](https://kosmonavtsv.github.io/nft-preview-card-component-main)
+- Live URL: [Github Page](https://kosmonavtsv.github.io/fm-nft-preview-card-component-main)
 
 ## My process
 
