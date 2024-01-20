@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://kosmonavtsv.github.io/nft-preview-card-component-main
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/nft-preview-card-bem-media-query-flexbox-WcPFlXtEZ)
+- Live URL: [Github Page](https://kosmonavtsv.github.io/nft-preview-card-component-main)
 
 ## My process
 
